@@ -1,0 +1,50 @@
+body {
+	border:2px solid rgb(0,0,0);
+	padding:30px;
+	margin:30px;
+     }
+
+h1 {
+	text-align:center; 
+	font-family:Comic Sans MS;
+	font-size:200%;
+   }
+
+p {
+	text-align:center; 
+	font-family:Comic Sans MS;
+	font-size:100%;
+  }
+
+blockquote {
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size: 100%;
+} 
+
+a:link {
+	color:yellow;
+	background-color:black;
+	text-decoration:none;
+}
+
+a:visited {
+	background-color: #f44336;
+      color: white;
+      padding: 15px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+}
+
+a:hover {
+	color:black;
+	background-color:red;
+	text-decoration:underline;
+}
+
+a:active {
+	color:pink;
+	background-color:red;
+	text-decoration:underline;
+}
